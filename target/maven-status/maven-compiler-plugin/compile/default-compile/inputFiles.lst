@@ -1,0 +1,12 @@
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\MyDaoFactory.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\model\Modello.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\modello\ModelloDAOImpl.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\applicazione\ApplicazioneDAOImpl.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\applicazione\IApplicazioneDAO.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\marca\IMarcaDAO.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\model\Marca.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\marca\MarcaDAOImpl.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\EntityManagerUtil.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\modello\IModelloDAO.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\model\Applicazione.java
+C:\Users\vecch\eclipse-workspace\GestioneCellulari\src\main\java\it\prova\dao\IBaseDAO.java
